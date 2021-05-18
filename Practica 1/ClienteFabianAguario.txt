@@ -1,0 +1,6 @@
+Página principal: donde se muestre información de importancia de la veterinaria;
+como nuestro equipo, ubicación, instalaciones.
+
+Serivicios: Página donde se muestren todos los servicios que ofrecemos y costos.
+
+Productos: Página donde se muestren los productos que vende la veterinaria.
