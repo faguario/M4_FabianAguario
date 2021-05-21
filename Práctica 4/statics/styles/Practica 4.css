@@ -1,0 +1,604 @@
+h1{
+    position: absolute;
+    width: 594px;
+    height: 133px;
+    
+    font-family: Rasa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    
+}
+#culture{
+    line-height: 50px;
+    color: white;
+    left: 20px;
+    top: 10px;
+}
+#exper{
+    left: 688px;
+    top: 435px;
+    line-height: 50px;
+    color: white;
+}
+#lupa{
+    position: absolute;
+    width: 30px;
+    height: 31px;
+    left: 500px;
+    top: 46px;
+}
+body{
+    background-color: #DB8D24;
+}
+#buscador{
+    position: relative;
+    width: 898px;
+    height: 54px;
+    left: 485px;
+    top: 34px;
+
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 31.77%), linear-gradient(0deg, rgba(0, 7, 17, 0.51), rgba(0, 7, 17, 0.51)), linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+    border: 1px solid #000000;
+    border-radius: 663px;
+}
+p{
+    width: 95px;
+    height: 40px;
+    font-family: Rasa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 50px;
+    color: white;
+}
+
+#Ini{
+    position: relative;
+    left: 183px;
+    top: 108px;
+}
+#Peli{
+    position: absolute;
+    left: 329px;
+    top: 145px;
+}
+#Peli:hover{
+    color: #F21D1D;
+}
+#Ser{
+    position: absolute;
+    left: 508px;
+    top: 145px;
+}
+#Exp{
+    position: absolute;
+    left: 635px;
+    top: 145px;
+}
+#Exp:hover{
+    color: #F21D1D;
+}
+#accion{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 132px;
+    top: 221px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+}
+
+#aventura{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 383px;
+    top: 221px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+}
+#textv{
+    position: absolute;
+    width: 264px;
+    height: 18px;
+    left: 383px;
+    top: 320px;
+
+    font-size: 60px;
+}
+#comedia{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 634px;
+    top: 221px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+}
+#com{
+    position: absolute;
+    width: 226px;
+    height: 18px;
+    left: 634px;
+    top: 310px;
+
+   
+    font-size: 60px;
+    line-height: 50px;
+}
+#ficcion{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 885px;
+    top: 221px;
+
+    border-radius: 32px;
+}
+#ficci{
+    position: absolute;
+    width: 226px;
+    height: 18px;
+    left: 910px;
+    top: 275px;
+
+    font-size: 60px;
+}
+#terror{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1136px;
+    top: 221px;
+
+    border-radius: 32px;
+}
+#terr{
+    position: absolute;
+    width: 226px;
+    height: 18px;
+    left: 1157px;
+    top: 310px;
+
+    font-size: 60px;
+}
+#gra{
+    position: absolute;
+    width: 473px;
+    height: 454px;
+    left: 123px;
+    top: 484px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+
+}
+#lado{
+    position: absolute;
+    width: 707px;
+    height: 200px;
+    left: 676px;
+    top: 529px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+}
+#lado2{
+    position: absolute;
+    width: 707px;
+    height: 200px;
+    left: 676px;
+    top: 771px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+}
+#nac{
+    position: absolute;
+    width: 197px;
+    height: 55px;
+    left: 132px;
+    top: 366px;
+
+    background: rgba(39, 24, 24, 0.76);
+    border-radius: 31px;
+}
+#nav{
+    position: absolute;
+    width: 199px;
+    height: 55px;
+    left: 383px;
+    top: 366px;
+
+    background: rgba(39, 24, 24, 0.76);
+    border-radius: 31px;
+}
+#nam{
+    position: absolute;
+    width: 199px;
+    height: 55px;
+    left: 635px;
+    top: 366px;
+
+    background: rgba(39, 24, 24, 0.76);
+    border-radius: 31px;
+}
+#naf{
+    position: absolute;
+    width: 199px;
+    height: 82px;
+    left: 885px;
+    top: 337px;
+
+    background: rgba(39, 24, 24, 0.76);
+    border-radius: 31px;
+}
+#nat{
+    position: absolute;
+    width: 199px;
+    height: 55px;
+    left: 1136px;
+    top: 366px;
+
+    background: rgba(39, 24, 24, 0.76);
+    border-radius: 31px;
+}
+#texta{
+    position: absolute;
+    width: 179px;
+    height: 18px;
+    left: 150px;
+    top: 310px;
+
+    font-size: 60px;
+}
+a{
+
+    text-decoration: none;
+    width: 95px;
+    height: 40px;
+    font-family: Rasa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 50px;
+    color: white;
+}
+#Ser:hover{
+    color: #F21D1D;
+}
+#ini2:hover{
+    color: #f21D1D;
+}
+#exp2:hover{
+  color: #F21D1D ;
+}
+#mensaje{
+    position: absolute;
+    width: 325px;
+    height: 40px;
+    left: 470px;
+    top: 141px;
+    color: black;
+    font-size: 20px;
+ 
+}
+#tengen{
+    position: absolute;
+    width: 1440px;
+    height: 512px;
+    left: 0px;
+    top: 0px;
+}
+#ini2{
+    position: absolute;
+    width: 95px;
+    height: 40px;
+    left: 840px;
+    top: 19px;
+
+    font-size: 36px;
+}
+#peli2{
+    position: absolute;
+    width: 142px;
+    height: 40px;
+    left: 947px;
+    top: 22px;
+
+    font-size: 36px;
+}
+#peli2:hover{
+    color: #F21D1D;
+}
+#seri{
+    position: absolute;
+    width: 142px;
+    height: 40px;
+    left: 1101px;
+    top: 19px;
+
+    font-size: 36px;
+}
+#seri:hover{
+    color: #F21D1D ;
+
+}
+#iniciotres:hover{
+    color: #F21D1D;
+}
+#seritres:hover{
+    color:#F21D1D;
+}
+#exp2{
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1223px;
+    top: 19px;
+
+    font-size: 36px;
+}
+#titu{
+    position: absolute;
+    width: 1440px;
+    height: 85px;
+    left: 0px;
+    top: 220px;
+
+    background: #000000;
+    mix-blend-mode: overlay;
+}
+#lo{
+    position: absolute;
+    width: 971px;
+    height: 133px;
+    left: 0px;
+    top: 155px;
+    color: white;
+    font-size: 72px;
+}
+#num{
+    position: absolute;
+    width: 264px;
+    height: 18px;
+    left: 104px;
+    top: 270px;
+    font-size: 48px;
+    color: #EDDE3B;
+}
+#rojo{
+    position: absolute;
+    width: 277px;
+    height: 77px;
+    left: 45px;
+    top: 385px;
+
+    background: #EE0303;
+    border-radius: 570px;
+}
+#play{
+    position: absolute;
+    width: 264px;
+    height: 18px;
+    left: 104px;
+    top: 350px;
+
+    font-size: 48px
+}
+#buscado{
+    position: absolute;
+    width: 594px;
+    height: 133px;
+    left: 0px;
+    top: 543px;
+    color: white;
+    font-size: 64px;
+}
+#accion2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 77px;
+    top: 660px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+}
+#aventura2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 368px;
+    top: 660px;
+
+    border: 1px solid #000000;
+    border-radius: 32px;
+}
+#comedia2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 620px;
+    top: 660px;
+
+    border-radius: 32px;
+}
+#ficcion2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 872px;
+    top: 660px;
+    border-radius: 32px;
+}
+#terror2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1138px;
+    top: 660px;
+
+    border-radius: 32px;
+}
+#come{
+    position: absolute;
+    width: 1392px;
+    height: 159px;
+    left: 10px;
+    top: 900px;
+
+    background: rgba(255, 47, 31, 0.75);
+    border-radius: 36px;
+}
+#cuadro{
+    position: absolute;
+    width: 1290px;
+    height: 92px;
+    left: 69px;
+    top: 940px;
+
+    border: 1px solid #000000;
+}
+#cote{
+    position: absolute;
+    width: 264px;
+    height: 18px;
+    left: 43px;
+    top: 856px;
+    color: white;
+    font-size: 48px;
+}
+
+#anima{
+    position: absolute;
+    width: 954px;
+    height: 133px;
+    left: 15px;
+    top: 0px;
+    color: white;
+    font-size: 64px;
+}
+#iniciotres{
+    position: absolute;
+    width: 95px;
+    height: 40px;
+    left: 837px;
+    top: 22px;
+    font-size: 36px;
+}
+#pelitres{
+    position: absolute;
+    width: 142px;
+    height: 40px;
+    left: 954px;
+    top: 22px;
+    font-size: 36px;
+}
+#pelitres:hover{
+    color: #F21D1D;
+}
+#seritres{ 
+    position: absolute;
+    width: 142px;
+    height: 40px;
+    left: 1118px;
+    top: 22px;
+
+    font-size: 36px;
+}
+#experimental{
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1240px;
+    top: 22px;
+    font-size: 36px;
+}
+#imatres{
+    
+    position: absolute; 
+    width: 770px;
+    height: 479px;
+    left: 15px;
+    top: 137px;
+    border-radius: 52px;
+}
+#dostres{
+    position: absolute;
+    width: 444px;
+    height: 245px;
+    left: 918px;
+    top: 131px;
+    border-radius: 52px;
+}
+#trestres{
+    position: absolute;
+    width: 444px;
+    height: 245px;
+    left: 918px;
+    top: 422px;
+    border-radius: 52px;
+}
+#trescuatro{
+    position: absolute;
+    width: 444px;
+    height: 245px;
+    left: 918px;
+    top: 713px;
+    border-radius: 52px;
+}
+#trescinco{
+    position: absolute;
+    width: 444px;
+    height: 245px;
+    left: 341px;
+    top: 713px;
+    border-radius: 52px;
+
+}
+#tresseis{
+    position: absolute;
+    width: 281px;
+    height: 245px;
+    left: 4px;
+    top: 713px;
+    border-radius: 52px;
+}
+.loader{
+    position: absolute;
+    left: 615px;
+    top: 412px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 25px solid black;
+    border-top-color: rgb(0, 255, 21);
+    border-bottom-color:rgb(9, 255, 0);
+    animation: gira 1s linear infinite;
+  }
+  @keyframes gira{
+    0%{
+      transform: rotate(0deg)
+    }
+    50%{
+      transform: rotate(90deg)
+    }
+    100%{
+      transform: rotate(360deg)
+    }
+  }
+  #regresar{
+    position: absolute;
+    width: 298px;
+    height: 96px;
+    left: 1058px;
+    top: 81px;
+  }
+  #regresar:hover{
+      color:#F21D1D;
+  }
